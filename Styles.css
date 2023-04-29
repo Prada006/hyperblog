@@ -1,10 +1,26 @@
 body 
 {   
+<<<<<<< HEAD
     color: #8c1d1d;     
     text-align: center;
     font-family: Arial, Helvetica, sans-serifs
+=======
+    color:rgb(22, 18, 22);     
+    text-align: center;
+    font-family:  "Arial";
+    font-size: 16px;
+>>>>>>> cabezota
     margin: 0;
     padding: 0;   
+
+}
+
+#cabezota
+{
+    background: #339;
+    color:white
+    
+    padding: 0; 
 
 }
 #container 
@@ -13,13 +29,18 @@ body
     padding: 1em;
     text-align: left;
     border: 1px solid 
-    margin: 0 auto;
+    
 
 
 }
 
 #cabezota 
 {
+    font-size: 20px;
     background-color: blue;
 
+}
+#post 
+{
+    padding: 1em;
 }
